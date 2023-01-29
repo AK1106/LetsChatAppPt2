@@ -1,0 +1,27 @@
+#logoutbutton {
+    height: 50px;
+    width: 50px;
+    font-weight: bold;
+}
+
+#body_chat {
+    background-color: darkblue;
+}
+
+.title {
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+#img_div {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: aliceblue;
+}
+
+#usernameheader {
+    color: aliceblue;
+}
